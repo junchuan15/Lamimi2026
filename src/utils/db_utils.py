@@ -18,7 +18,6 @@ DATABASE_URL = f"postgresql+psycopg2://{USER}:{PASSWORD}@{HOST}:{PORT}/{DBNAME}?
 
 def write_table(df, schema, table_name):
     """Write dataframe to PostgreSQL (overwrite table)."""
-    print(DATABASE_URL)
     engine = create_engine(DATABASE_URL)
 
     try:

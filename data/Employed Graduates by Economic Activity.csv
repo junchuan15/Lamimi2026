@@ -1,22 +1,22 @@
-Economic Activity,2020,2021,2022,2023,2024
-Agriculture,63.8,56.7,79,83,83.9
-Mining and Quarrying,41.4,39.2,44.2,46.8,49.2
-Manufacturing,579.4,574.5,630.4,637.9,667.3
-Vegetable and animal oils & fats and food processing,87.8,81.5,97.4,104.6,108.9
-Beverages and tobacco products,6.6,2.6,4.6,5.2,5.6
-"Textiles, wearing apparel and leather products",22.9,27.3,26.5,29.3,31.3
-"Wood products, furniture, paper products and printing",53.1,53.9,59.5,57.8,59.9
-"Petroleum, chemical, rubber and plastic products",79.3,85.7,85,93.4,95.7
-"Non-metallic mineral products, basic metal and fabricated metal products",57,44.6,60.8,59.8,62.8
-"Electrical, electronic and optical products",211.2,215.5,230.4,224,232.1
-"Transport equipment, other manufacturing and repair",61.5,63.3,66.3,63.8,71.1
-Construction,237.4,257.8,283.1,301.1,313.1
-Services,"3,131.00","3,350.40","3,497.70","3,687.00","3,863.20"
-Utilities,41.7,51.7,49.5,42.1,43.4
-Wholesale and retail trade,486.6,593.9,711.9,752.9,789.3
-Food & beverages and accommodation,202.1,202.9,260.3,358.2,369.9
-Transportation and storage,128.3,144,152.7,138.5,146.7
-Information and communication,168.9,149.2,163.4,161.8,165.1
-Finance and insurance,230.9,234.9,236.5,259.1,269.7
-Real estate and business services,455.4,447.5,450,461.9,496.5
-Other services,"1,416.90","1,526.30","1,473.30","1,512.60","1,582.50"
+Economic Activity,2016,2017,2018,2019,2020,2021,2022,2023,2024
+Agriculture,42.5,46.2,56.2,57.6,63.8,56.7,79,83,83.9
+Mining and Quarrying,48.6,39.9,41.8,43.2,41.4,39.2,44.2,46.8,49.2
+Manufacturing,424.8,486.8,495.7,538.6,579.4,574.5,630.4,637.9,667.3
+Vegetable and animal oils & fats and food processing,42.6,64.5,66.9,71.7,87.8,81.5,97.4,104.6,108.9
+Beverages and tobacco products,5.8,3.9,5.7,6.4,6.6,2.6,4.6,5.2,5.6
+"Textiles, wearing apparel and leather products",21.1,17.3,21.3,23.9,22.9,27.3,26.5,29.3,31.3
+"Wood products, furniture, paper products and printing",30.4,35.7,36.1,37.1,53.1,53.9,59.5,57.8,59.9
+"Petroleum, chemical, rubber and plastic products",62.7,71.4,67.8,75.8,79.3,85.7,85,93.4,95.7
+"Non-metallic mineral products, basic metal and fabricated metal products",37.9,51.4,44.3,46.3,57,44.6,60.8,59.8,62.8
+"Electrical, electronic and optical products",164.3,183.3,201.3,219.5,211.2,215.5,230.4,224,232.1
+"Transport equipment, other manufacturing and repair",60,59.4,52.2,57.8,61.5,63.3,66.3,63.8,71.1
+Construction,202.5,219.8,211.4,226.1,237.4,257.8,283.1,301.1,313.1
+Services,2758.5,2887.3,3169,3381.2,"3,131.00","3,350.40","3,497.70","3,687.00","3,863.20"
+Utilities,44.2,43.6,42.3,47.8,41.7,51.7,49.5,42.1,43.4
+Wholesale and retail trade,400.8,443.2,470.1,512.9,486.6,593.9,711.9,752.9,789.3
+Food & beverages and accommodation,116.1,130.8,162.3,186.6,202.1,202.9,260.3,358.2,369.9
+Transportation and storage,95.4,104,130.5,143.5,128.3,144,152.7,138.5,146.7
+Information and communication,161.4,175.1,173.9,189.5,168.9,149.2,163.4,161.8,165.1
+Finance and insurance,205.4,236,236.8,253.1,230.9,234.9,236.5,259.1,269.7
+Real estate and business services,377.1,392.7,466.6,495.6,455.4,447.5,450,461.9,496.5
+Other services,1358.1,1362,1486.5,1552.2,"1,416.90","1,526.30","1,473.30","1,512.60","1,582.50"
