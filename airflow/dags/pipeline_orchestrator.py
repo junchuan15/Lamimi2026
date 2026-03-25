@@ -3,7 +3,9 @@ from pathlib import Path
 from airflow import DAG
 from airflow.operators.python import PythonOperator
 from airflow.operators.empty import EmptyOperator
-from src.utils.notebook_runner import run_notebook
+import sys
+sys.path.append('../..')
+from utils.notebook_runner import run_notebook
 
 
 def run_notebook_task(notebook_path: str):
@@ -44,11 +46,11 @@ with DAG(
         "retry_delay": timedelta(minutes=2),
     },
     description="Run all notebooks in sequence: landing -> staging -> ml -> powerbi/Dimension -> powerbi/Fact",
-    start_date=datetime(2026, 3, 21),
+    start_date=datetime(2026, 3, 25),
     schedule_interval="@daily",
     catchup=False,
     max_active_runs=1,
-    tags=["lamimi", "notebook"],
+    tags=["notebook_orchestrator"],
 ) as dag:
     start = EmptyOperator(task_id="start")
     end = EmptyOperator(task_id="end")
