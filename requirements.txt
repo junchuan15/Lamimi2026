@@ -7,3 +7,7 @@ matplotlib
 seaborn
 scikit-learn
 notebook
+pyarrow
+fastparquet
+apache-airflow
+papermill
