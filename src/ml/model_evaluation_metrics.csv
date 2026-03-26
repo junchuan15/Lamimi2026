@@ -1,0 +1,161 @@
+state,target,model,train_r2,cv_r2,mae,rmse
+Johor,gdp_rm_million,Gradient Boosting,1.0,-2.4325,0.0,0.01
+Johor,gdp_rm_million,Random Forest,0.9669,-3.9537,1870.34,2187.9
+Johor,gdp_rm_million,Extra Trees,1.0,-2.4325,0.0,0.0
+Johor,gdp_rm_million,Poly Ridge (deg 3),0.8977,-12.1671,3190.41,3845.93
+Johor,gdp_rm_million,ElasticNet Poly,0.8705,-5.5564,3509.1,4327.91
+Johor,population,Gradient Boosting,1.0,-7.5297,0.04,0.04
+Johor,population,Random Forest,0.9779,-176.1996,20915.78,27606.01
+Johor,population,Extra Trees,1.0,-7.5297,0.0,0.0
+Johor,population,Poly Ridge (deg 3),0.9383,-1789.4234,33844.02,46093.06
+Johor,population,ElasticNet Poly,0.9378,-33.227,34243.45,46288.14
+Kedah,gdp_rm_million,Gradient Boosting,1.0,-7.694,0.0,0.0
+Kedah,gdp_rm_million,Random Forest,0.9789,-14.336,491.5,576.58
+Kedah,gdp_rm_million,Extra Trees,1.0,-7.694,0.0,0.0
+Kedah,gdp_rm_million,Poly Ridge (deg 3),0.9632,-5.9967,649.62,762.62
+Kedah,gdp_rm_million,ElasticNet Poly,0.9601,-5.2735,655.3,794.08
+Kedah,population,Gradient Boosting,1.0,-9.791,0.08,0.1
+Kedah,population,Random Forest,0.918,-5.3978,6914.56,8031.49
+Kedah,population,Extra Trees,1.0,-9.791,0.0,0.0
+Kedah,population,Poly Ridge (deg 3),0.6488,-108.5617,14518.11,16618.69
+Kedah,population,ElasticNet Poly,0.5984,-4.2705,15871.1,17769.68
+Kelantan,gdp_rm_million,Gradient Boosting,1.0,-26.5237,0.0,0.0
+Kelantan,gdp_rm_million,Random Forest,0.9782,-38.4547,232.22,276.67
+Kelantan,gdp_rm_million,Extra Trees,1.0,-26.5237,0.0,0.0
+Kelantan,gdp_rm_million,Poly Ridge (deg 3),0.9721,-5.4505,234.92,312.72
+Kelantan,gdp_rm_million,ElasticNet Poly,0.9718,-4.7556,239.45,314.75
+Kelantan,population,Gradient Boosting,1.0,-6.5754,0.15,0.18
+Kelantan,population,Random Forest,0.8605,-4.3212,10191.85,12526.99
+Kelantan,population,Extra Trees,1.0,-6.5754,0.0,0.0
+Kelantan,population,Poly Ridge (deg 3),0.1965,-133.3914,25470.93,30069.86
+Kelantan,population,ElasticNet Poly,0.1749,-7.2213,26531.73,30471.74
+Melaka,gdp_rm_million,Gradient Boosting,1.0,-2.614,0.0,0.0
+Melaka,gdp_rm_million,Random Forest,0.9552,-5.133,623.06,691.96
+Melaka,gdp_rm_million,Extra Trees,1.0,-2.614,0.0,0.0
+Melaka,gdp_rm_million,Poly Ridge (deg 3),0.826,-12.011,1179.36,1363.28
+Melaka,gdp_rm_million,ElasticNet Poly,0.8111,-4.6564,1224.75,1420.44
+Melaka,population,Gradient Boosting,1.0,-9.0152,0.01,0.01
+Melaka,population,Random Forest,0.9804,-79.7063,5367.15,7330.08
+Melaka,population,Extra Trees,1.0,-9.0152,0.0,0.0
+Melaka,population,Poly Ridge (deg 3),0.9344,-587.7763,10039.71,13421.56
+Melaka,population,ElasticNet Poly,0.934,-5.4797,10149.39,13456.13
+Negeri Sembilan,gdp_rm_million,Gradient Boosting,1.0,-3.5834,0.0,0.0
+Negeri Sembilan,gdp_rm_million,Random Forest,0.9737,-6.1494,579.27,661.62
+Negeri Sembilan,gdp_rm_million,Extra Trees,1.0,-3.5834,0.0,0.0
+Negeri Sembilan,gdp_rm_million,Poly Ridge (deg 3),0.9413,-5.3746,801.51,989.08
+Negeri Sembilan,gdp_rm_million,ElasticNet Poly,0.9367,-1.7131,808.61,1027.03
+Negeri Sembilan,population,Gradient Boosting,1.0,-7.6541,0.01,0.01
+Negeri Sembilan,population,Random Forest,0.9782,-90.8458,5492.63,7567.89
+Negeri Sembilan,population,Extra Trees,1.0,-7.6541,0.0,0.0
+Negeri Sembilan,population,Poly Ridge (deg 3),0.9222,-749.9657,10533.38,14285.07
+Negeri Sembilan,population,ElasticNet Poly,0.9197,-8.6243,10598.71,14518.51
+Pahang,gdp_rm_million,Gradient Boosting,1.0,-3.0282,0.0,0.0
+Pahang,gdp_rm_million,Random Forest,0.9615,-5.6767,956.31,1048.11
+Pahang,gdp_rm_million,Extra Trees,1.0,-3.0282,0.0,0.0
+Pahang,gdp_rm_million,Poly Ridge (deg 3),0.8511,-7.8535,1748.45,2060.35
+Pahang,gdp_rm_million,ElasticNet Poly,0.7929,-4.984,1969.29,2429.81
+Pahang,population,Gradient Boosting,1.0,-6.235,0.03,0.03
+Pahang,population,Random Forest,0.8742,-5.3457,7548.37,9889.4
+Pahang,population,Extra Trees,1.0,-6.235,0.0,0.0
+Pahang,population,Poly Ridge (deg 3),0.1294,-196.8136,22780.15,26019.64
+Pahang,population,ElasticNet Poly,0.0008,-10.7847,24930.76,27875.19
+Perak,gdp_rm_million,Gradient Boosting,1.0,-5.6959,0.0,0.0
+Perak,gdp_rm_million,Random Forest,0.975,-9.8458,844.49,953.19
+Perak,gdp_rm_million,Extra Trees,1.0,-5.6959,0.0,0.0
+Perak,gdp_rm_million,Poly Ridge (deg 3),0.9552,-14.9389,1056.55,1276.4
+Perak,gdp_rm_million,ElasticNet Poly,0.9551,-6.5274,1064.47,1277.92
+Perak,population,Gradient Boosting,1.0,-250.9846,0.5,0.57
+Perak,population,Random Forest,0.9466,-166.473,4884.37,5829.77
+Perak,population,Extra Trees,1.0,-250.9846,0.0,0.0
+Perak,population,Poly Ridge (deg 3),0.8845,-1165.4655,7399.46,8569.11
+Perak,population,ElasticNet Poly,0.7938,-16.9812,9186.33,11452.75
+Perlis,gdp_rm_million,Gradient Boosting,1.0,-2.7306,0.0,0.0
+Perlis,gdp_rm_million,Random Forest,0.949,-4.5614,56.26,67.08
+Perlis,gdp_rm_million,Extra Trees,1.0,-2.7306,0.0,0.0
+Perlis,gdp_rm_million,Poly Ridge (deg 3),0.7907,-10.1602,103.16,135.94
+Perlis,gdp_rm_million,ElasticNet Poly,0.7822,-1.6113,106.62,138.67
+Perlis,population,Gradient Boosting,1.0,-6.9164,0.0,0.0
+Perlis,population,Random Forest,0.9772,-55.4329,1700.0,2876.68
+Perlis,population,Extra Trees,1.0,-6.9164,0.0,0.0
+Perlis,population,Poly Ridge (deg 3),0.8691,-479.0422,5565.44,6895.62
+Perlis,population,ElasticNet Poly,0.868,-14.9027,5701.0,6924.38
+Pulau Pinang,gdp_rm_million,Gradient Boosting,1.0,-5.5731,0.0,0.0
+Pulau Pinang,gdp_rm_million,Random Forest,0.9843,-13.1873,1425.77,1627.99
+Pulau Pinang,gdp_rm_million,Extra Trees,1.0,-5.5731,0.0,0.0
+Pulau Pinang,gdp_rm_million,Poly Ridge (deg 3),0.9617,-11.6816,2186.35,2544.63
+Pulau Pinang,gdp_rm_million,ElasticNet Poly,0.9336,-8.8102,2688.3,3350.2
+Pulau Pinang,population,Gradient Boosting,1.0,-3.6848,0.08,0.12
+Pulau Pinang,population,Random Forest,0.9011,-119.1504,6278.89,7243.08
+Pulau Pinang,population,Extra Trees,1.0,-3.6848,0.0,0.0
+Pulau Pinang,population,Poly Ridge (deg 3),0.4446,-6044.8819,15234.0,17162.38
+Pulau Pinang,population,ElasticNet Poly,0.4136,-1587.8819,16012.43,17633.84
+Sabah,gdp_rm_million,Gradient Boosting,1.0,-4.2847,0.01,0.01
+Sabah,gdp_rm_million,Random Forest,0.8299,-8.5817,970.76,1220.04
+Sabah,gdp_rm_million,Extra Trees,1.0,-4.2847,0.0,0.0
+Sabah,gdp_rm_million,Poly Ridge (deg 3),0.0377,-151.9646,2543.25,2901.67
+Sabah,gdp_rm_million,ElasticNet Poly,0.0376,-10.823,2549.19,2901.8
+Sabah,population,Gradient Boosting,1.0,-10.8341,0.05,0.07
+Sabah,population,Random Forest,0.9273,-6304.3675,40095.04,54232.16
+Sabah,population,Extra Trees,1.0,-10.8339,0.0,0.0
+Sabah,population,Poly Ridge (deg 3),0.4279,-135566.0665,134446.47,152170.68
+Sabah,population,ElasticNet Poly,0.2811,-3420.7444,151021.8,170576.87
+Sarawak,gdp_rm_million,Gradient Boosting,1.0,-2.0418,0.01,0.01
+Sarawak,gdp_rm_million,Random Forest,0.9402,-3.097,1507.26,1760.75
+Sarawak,gdp_rm_million,Extra Trees,1.0,-2.0418,0.0,0.0
+Sarawak,gdp_rm_million,Poly Ridge (deg 3),0.7583,-10.833,3031.6,3541.68
+Sarawak,gdp_rm_million,ElasticNet Poly,0.7161,-2.3412,3134.87,3838.17
+Sarawak,population,Gradient Boosting,1.0,-13.2949,0.03,0.03
+Sarawak,population,Random Forest,0.9465,-199.1787,19373.7,34162.06
+Sarawak,population,Extra Trees,1.0,-13.2949,0.0,0.0
+Sarawak,population,Poly Ridge (deg 3),0.6169,-6595.0126,76459.16,91442.87
+Sarawak,population,ElasticNet Poly,0.5974,-219.5457,80895.07,93740.47
+Selangor,gdp_rm_million,Gradient Boosting,1.0,-3.8606,0.02,0.02
+Selangor,gdp_rm_million,Random Forest,0.9759,-7.0491,6076.25,6881.68
+Selangor,gdp_rm_million,Extra Trees,1.0,-3.8606,0.0,0.0
+Selangor,gdp_rm_million,Poly Ridge (deg 3),0.9432,-7.283,8600.73,10575.92
+Selangor,gdp_rm_million,ElasticNet Poly,0.9295,-3.3698,9191.42,11781.11
+Selangor,population,Gradient Boosting,1.0,-5.1205,0.07,0.08
+Selangor,population,Random Forest,0.979,-44.4432,40305.37,54155.71
+Selangor,population,Extra Trees,1.0,-5.1205,0.0,0.0
+Selangor,population,Poly Ridge (deg 3),0.9428,-371.9163,64926.75,89330.85
+Selangor,population,ElasticNet Poly,0.9428,-4.2476,65307.87,89393.63
+Terengganu,gdp_rm_million,Gradient Boosting,1.0,-2.9213,0.0,0.0
+Terengganu,gdp_rm_million,Random Forest,0.955,-3.9261,431.79,484.82
+Terengganu,gdp_rm_million,Extra Trees,1.0,-2.9213,0.0,0.0
+Terengganu,gdp_rm_million,Poly Ridge (deg 3),0.8563,-11.7543,736.72,866.28
+Terengganu,gdp_rm_million,ElasticNet Poly,0.835,-2.4634,758.19,928.34
+Terengganu,population,Gradient Boosting,1.0,-8.0211,0.06,0.07
+Terengganu,population,Random Forest,0.8446,-4.8141,8947.81,11601.75
+Terengganu,population,Extra Trees,1.0,-8.0211,0.0,0.0
+Terengganu,population,Poly Ridge (deg 3),0.0681,-184.5745,23887.6,28409.38
+Terengganu,population,ElasticNet Poly,0.0037,-8.6961,25493.68,29374.61
+W.P. Kuala Lumpur,gdp_rm_million,Gradient Boosting,1.0,-2.2103,0.01,0.02
+W.P. Kuala Lumpur,gdp_rm_million,Random Forest,0.9592,-4.0367,3983.17,4437.0
+W.P. Kuala Lumpur,gdp_rm_million,Extra Trees,1.0,-2.2103,0.0,0.0
+W.P. Kuala Lumpur,gdp_rm_million,Poly Ridge (deg 3),0.8442,-10.0,6848.65,8675.24
+W.P. Kuala Lumpur,gdp_rm_million,ElasticNet Poly,0.8337,-2.816,7219.22,8962.78
+W.P. Kuala Lumpur,population,Gradient Boosting,1.0,-66.938,0.11,0.12
+W.P. Kuala Lumpur,population,Random Forest,0.9596,-318.6598,13326.44,21515.23
+W.P. Kuala Lumpur,population,Extra Trees,1.0,-66.9382,0.0,0.0
+W.P. Kuala Lumpur,population,Poly Ridge (deg 3),0.84,-14278.3396,31449.17,42822.26
+W.P. Kuala Lumpur,population,ElasticNet Poly,0.8346,-71.4292,33829.01,43537.48
+W.P. Labuan,gdp_rm_million,Gradient Boosting,1.0,-204.603,0.0,0.0
+W.P. Labuan,gdp_rm_million,Random Forest,0.9761,-380.8946,76.23,100.01
+W.P. Labuan,gdp_rm_million,Extra Trees,1.0,-204.6029,0.0,0.0
+W.P. Labuan,gdp_rm_million,Poly Ridge (deg 3),0.9533,-204.2095,118.16,139.79
+W.P. Labuan,gdp_rm_million,ElasticNet Poly,0.9402,-63.9955,131.09,158.12
+W.P. Labuan,population,Gradient Boosting,1.0,-6.9486,0.01,0.01
+W.P. Labuan,population,Random Forest,0.885,-4.743,448.44,581.92
+W.P. Labuan,population,Extra Trees,1.0,-6.9486,0.0,0.0
+W.P. Labuan,population,Poly Ridge (deg 3),0.2969,-119.2147,1241.63,1438.84
+W.P. Labuan,population,ElasticNet Poly,0.1016,-7.5072,1404.71,1626.42
+W.P. Putrajaya,gdp_rm_million,Gradient Boosting,1.0,-2544.4109,0.0,0.0
+W.P. Putrajaya,gdp_rm_million,Random Forest,0.92,-3858.0004,587.25,775.62
+W.P. Putrajaya,gdp_rm_million,Extra Trees,1.0,-2544.411,0.0,0.0
+W.P. Putrajaya,gdp_rm_million,Poly Ridge (deg 3),0.8325,-1297.7471,906.96,1122.54
+W.P. Putrajaya,gdp_rm_million,ElasticNet Poly,0.3994,-30527.3307,1647.84,2125.53
+W.P. Putrajaya,population,Gradient Boosting,1.0,-27.2173,0.0,0.0
+W.P. Putrajaya,population,Random Forest,0.989,-49.2417,1169.37,1343.24
+W.P. Putrajaya,population,Extra Trees,1.0,-27.2173,0.0,0.0
+W.P. Putrajaya,population,Poly Ridge (deg 3),0.9887,-21.8707,934.34,1359.74
+W.P. Putrajaya,population,ElasticNet Poly,0.9405,-57.442,2825.82,3124.74
