@@ -4,6 +4,8 @@ venv/
 .env
 .env.local
 
+dashboard/
+
 # Python
 __pycache__/
 *.py[cod]
