@@ -65,6 +65,7 @@ Lamimi2026/
 │   │   ├── db_utils.py               # Supabase connection 
 │   │   └── notebook_runner.py        # Notebook execution 
 │
+├── data/                             # Raw data
 ├── requirements.txt                  
 ├── README.md                         
 └── .gitignore                        
@@ -85,8 +86,8 @@ Lamimi2026/
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Lamimi2026.git
-cd Lamimi2026
+git clone https://github.com/junchuan15/Lamimi_UKM-Data-Challenge-5.0.git
+cd Lamimi_UKM-Data-Challenge-5.0
 ```
 
 #### 2. Create a Virtual Environment
@@ -109,7 +110,7 @@ pip install -r requirements.txt
 
 #### 4. Configure Environment Variables
 
-Create a `.env` file in the `src/` directory with the following credentials:
+Create a `.env` file in the `src/` directory with the following credentials obtained from Supabase connector:
 
 ```env
 host=your_database_host
