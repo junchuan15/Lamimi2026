@@ -28,9 +28,6 @@ wheels/
 .installed.cfg
 *.egg
 
-# Jupyter Notebook
-.ipynb_checkpoints
-
 # IDE
 .vscode/
 .idea/
@@ -45,10 +42,6 @@ Thumbs.db
 # data/
 # *.csv
 # *.xlsx
-
-# Logs
-*.log
-logs/
 
 # Temporary files
 *.tmp
