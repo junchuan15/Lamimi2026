@@ -61,9 +61,9 @@ Lamimi2026/
 │   │   ├── Dimension/                # Dimension tables for Power BI
 │   │   └── Fact/                     # Fact tables for Power BI
 │   ├── utils/                        # Shared utilities
-│   │   ├── __init__.py
-│   │   ├── db_utils.py               # Supabase connection 
-│   │   └── notebook_runner.py        # Notebook execution 
+│       ├── __init__.py
+│       ├── db_utils.py               # Supabase connection 
+│       └── notebook_runner.py        # Notebook execution 
 │
 ├── data/                             # Raw data
 ├── requirements.txt                  
