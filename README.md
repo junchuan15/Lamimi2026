@@ -60,7 +60,7 @@ Lamimi2026/
 │   ├── powerbi/                      # Gold layer - business-ready data aggregation notebooks
 │   │   ├── Dimension/                # Dimension tables for Power BI
 │   │   └── Fact/                     # Fact tables for Power BI
-│   ├── utils/                        # Shared utilities
+│   └── utils/                        # Shared utilities
 │       ├── __init__.py
 │       ├── db_utils.py               # Supabase connection 
 │       └── notebook_runner.py        # Notebook execution 
